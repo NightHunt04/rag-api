@@ -1,0 +1,12 @@
+flask
+langchain
+flask-cors
+python-dotenv
+langchain-core
+langchain-groq
+langchain-community
+langchain-google-genai
+faiss-cpu
+gunicorn
+PyPDF2
+beautifulsoup4
