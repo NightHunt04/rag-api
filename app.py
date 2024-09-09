@@ -116,4 +116,4 @@ def get_answer():
     return jsonify({ 'response': response['answer'] })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
